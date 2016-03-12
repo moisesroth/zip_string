@@ -1,6 +1,6 @@
 # info
 
-> "zip_string.py" compress sequential characters on a string.
+> "zip_string.py" compress sequential characters of one string.
 
 
 # usage
