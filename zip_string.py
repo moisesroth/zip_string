@@ -1,6 +1,6 @@
 def zip_string(s):
     r = ''
-    f = [ord(x) for x in s] # convert string in array of acii
+    f = [ord(x) for x in s] # convert string in array of ascii
     d = False # dash flag
     
     for i in range(len(f)):
